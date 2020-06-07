@@ -4,8 +4,11 @@ Faculty project by: Tijana Kostic and Nikolina Trudic
 References:
 
 https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f 
+
 https://arxiv.org/abs/1508.06576 
+
 https://www.tensorflow.org/tutorials/generative/style_transfer
+
 https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b
 
 Notebook:
