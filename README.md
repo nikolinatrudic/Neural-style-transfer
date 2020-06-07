@@ -1,5 +1,5 @@
 # Neural style transfer
-Faculty project by: Tijana Kostic and Nikolina Trudic
+Faculty project by: Tijana Kostic (https://github.com/tiijana) and Nikolina Trudic
 
 References:
 
