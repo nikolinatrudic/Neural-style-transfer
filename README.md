@@ -1,4 +1,4 @@
-# Neural-style-transfer
+# Neural style transfer
 Faculty project by: Tijana Kostic and Nikolina Trudic
 
 References:
